@@ -21,6 +21,6 @@ namespace BibliotecaAPI.Models.Entities
         public bool Disponible { get; set; } = true;
 
         // Relación con préstamos
-        public ICollection<Prestamo> Prestamos { get; set; }
+        public ICollection<Prestamo> Prestamos { get; set; } = new List<Prestamo>(); 
     }
 }

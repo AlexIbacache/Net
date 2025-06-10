@@ -136,6 +136,32 @@
   },
   {
     "ContainingType": "BibliotecaAPI.Controllers.PrestamoesController",
+    "Method": "GetPrestamo",
+    "RelativePath": "api/Prestamoes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BibliotecaAPI.Models.Entities.Prestamo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BibliotecaAPI.Controllers.PrestamoesController",
     "Method": "PostDevolucion",
     "RelativePath": "api/Prestamoes/devoluciones",
     "HttpMethod": "POST",

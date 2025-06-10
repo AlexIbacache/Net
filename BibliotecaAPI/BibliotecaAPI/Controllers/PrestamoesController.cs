@@ -26,7 +26,7 @@ namespace BibliotecaAPI.Controllers
         public async Task<ActionResult<IEnumerable<Prestamo>>> GetPrestamos()
         {
             return await _context.Prestamos.ToListAsync();
-        }
+        }*/
 
         // GET: api/Prestamoes/5
         [HttpGet("{id}")]
@@ -41,7 +41,7 @@ namespace BibliotecaAPI.Controllers
 
             return prestamo;
         }
-
+        /*
         // PUT: api/Prestamoes/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]

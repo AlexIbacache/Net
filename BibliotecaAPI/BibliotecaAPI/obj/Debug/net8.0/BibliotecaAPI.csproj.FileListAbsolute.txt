@@ -558,3 +558,4 @@ C:\Users\feli_\Downloads\BibliotecaAPI\BibliotecaAPI\BibliotecaAPI\bin\Debug\net
 C:\Users\feli_\Downloads\BibliotecaAPI\BibliotecaAPI\BibliotecaAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\feli_\Downloads\BibliotecaAPI\BibliotecaAPI\BibliotecaAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\feli_\Downloads\BibliotecaAPI\BibliotecaAPI\BibliotecaAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\feli_\Downloads\BibliotecaAPI\BibliotecaAPI\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.sourcelink.json
