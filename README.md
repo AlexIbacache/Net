@@ -4,7 +4,7 @@ Este proyecto es una Web API RESTful desarrollada en ASP.NET Core con Entity Fra
 
 ## 🛠️ Tecnologías Utilizadas
 
-- ASP.NET Core 8
+- ASP.NET Core
 - Entity Framework Core
 - SQL Server
 - Swagger (Swashbuckle)
@@ -54,6 +54,27 @@ Este proyecto es una Web API RESTful desarrollada en ASP.NET Core con Entity Fra
    
 6. Ejecuta el proyecto. Swagger estará disponible en:
 https://localhost:{puerto}/swagger/index.html
+
+## 🛠️ Migraciones ORM con Entity Framework
+
+Para gestionar la base de datos a través de Entity Framework Core desde Visual Studio, puedes utilizar la Consola del Administrador de Paquetes.
+
+### 📌 Pasos para aplicar migraciones
+
+1. Abre Visual Studio y selecciona tu proyecto principal (`BibliotecaAPI`).
+2. Ve a:  
+   `Herramientas` → `Administrador de paquetes NuGet` → `Consola del Administrador de paquetes`.
+
+3. En la consola, ejecuta los siguientes comandos según el caso:
+
+#### ➕ Crear una nueva migración
+```powershell
+Add-Migration NombreDeLaMigracion
+```
+🗃️ Aplicar la migración a la base de datos
+```powershell
+Update-Database
+```
 
 ## 📸 Pruebas y Validaciones
 
