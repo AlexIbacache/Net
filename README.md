@@ -1,4 +1,5 @@
 # 📚 BibliotecaAPI – Sistema de Gestión de Biblioteca Municipal
+### **Integrantes: Russell Madariaga-Gabriel Escárate-Alex Ibacache**
 
 Este proyecto es una Web API RESTful desarrollada en ASP.NET Core con Entity Framework Core para la Biblioteca Municipal **“Letras Libres”**, permitiendo gestionar libros, usuarios y préstamos de forma eficiente, moderna y segura.
 
@@ -7,7 +8,7 @@ Este proyecto es una Web API RESTful desarrollada en ASP.NET Core con Entity Fra
 - ASP.NET Core
 - Entity Framework Core
 - SQL Server
-- Swagger (Swashbuckle)
+- Swagger
 - C#
 
 ## 🧠 Estructura de Datos
