@@ -8,6 +8,10 @@ using Microsoft.EntityFrameworkCore;
 using BibliotecaAPI.Data;
 using BibliotecaAPI.Models.Entities;
 
+// Controlador API para gestionar operaciones relacionadas con libros.
+// Permite realizar acciones como crear, listar, modificar y eliminar libros de la base de datos.
+// Aplica validaciones para evitar operaciones inconsistentes, como eliminar libros asociados a préstamos activos.
+
 namespace BibliotecaAPI.Controllers
 {
     [Route("api/[controller]")]

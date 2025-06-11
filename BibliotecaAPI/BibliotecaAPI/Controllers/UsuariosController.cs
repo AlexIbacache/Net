@@ -8,6 +8,10 @@ using Microsoft.EntityFrameworkCore;
 using BibliotecaAPI.Data;
 using BibliotecaAPI.Models.Entities;
 
+// Controlador API para gestionar operaciones sobre los usuarios del sistema de biblioteca.
+// Incluye funcionalidades como registrar nuevos usuarios, listar, actualizar o eliminar registros.
+// Aplica validaciones para asegurar consistencia en los datos personales, especialmente el correo electrónico.
+
 namespace BibliotecaAPI.Controllers
 {
     [Route("api/[controller]")]
@@ -41,7 +45,7 @@ namespace BibliotecaAPI.Controllers
 
             return usuario;
         }
-        /*
+        
         // PUT: api/Usuarios/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
@@ -71,7 +75,7 @@ namespace BibliotecaAPI.Controllers
             }
 
             return NoContent();
-        }*/
+        }
 
         // POST: api/Usuarios
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
@@ -83,7 +87,7 @@ namespace BibliotecaAPI.Controllers
 
             return CreatedAtAction("GetUsuario", new { id = usuario.Id }, usuario);
         }
-        /*
+        
         // DELETE: api/Usuarios/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteUsuario(int id)
@@ -103,6 +107,6 @@ namespace BibliotecaAPI.Controllers
         private bool UsuarioExists(int id)
         {
             return _context.Usuarios.Any(e => e.Id == id);
-        }*/
+        }
     }
 }

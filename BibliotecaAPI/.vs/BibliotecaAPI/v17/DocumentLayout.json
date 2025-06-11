@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\models\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\models\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\controllers\\libroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\libroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\controllers\\prestamoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\prestamoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\controllers\\libroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\libroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\models\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\models\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\models\\entities\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\models\\entities\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\migrations\\20250607002028_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\migrations\\20250607002028_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\models\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\models\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Migrations\\20250611010429_TestMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BibliotecaAPI\\Migrations\\20250611010429_TestMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\migrations\\bibliotecacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\migrations\\bibliotecacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\migrations\\20250607002028_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\migrations\\20250607002028_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -41,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\bibliotecaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\feli_\\downloads\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi\\models\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC00A526-6C4F-42B2-923A-258516A28832}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\models\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,79 +62,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LibroesController.cs",
-              "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LibroesController.cs",
-              "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\LibroesController.cs",
-              "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LibroesController.cs",
-              "RelativeToolTip": "BibliotecaAPI\\Controllers\\LibroesController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T12:43:45.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PrestamoesController.cs",
-              "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\PrestamoesController.cs",
-              "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\PrestamoesController.cs",
-              "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\PrestamoesController.cs",
-              "RelativeToolTip": "BibliotecaAPI\\Controllers\\PrestamoesController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwBQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T12:44:36.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "BibliotecaAPI\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA8wF4AAAANAAAAAAAAAA==",
+              "Title": "20250611010429_TestMigration.cs",
+              "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Migrations\\20250611010429_TestMigration.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Migrations\\20250611010429_TestMigration.cs",
+              "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Migrations\\20250611010429_TestMigration.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Migrations\\20250611010429_TestMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T12:45:22.662Z"
+              "WhenOpened": "2025-06-11T01:04:29.309Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "BibliotecaAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\appsettings.json",
-              "RelativeToolTip": "BibliotecaAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-06T12:26:06.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Models\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "BibliotecaAPI\\Models\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Models\\Entities\\Usuario.cs",
-              "RelativeToolTip": "BibliotecaAPI\\Models\\Entities\\Usuario.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T12:35:53.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Models\\Entities\\Libro.cs",
               "RelativeDocumentMoniker": "BibliotecaAPI\\Models\\Entities\\Libro.cs",
               "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Models\\Entities\\Libro.cs",
               "RelativeToolTip": "BibliotecaAPI\\Models\\Entities\\Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T12:27:42.836Z",
               "EditorCaption": ""
@@ -138,25 +93,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20250607002028_Inicial.cs",
-              "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Migrations\\20250607002028_Inicial.cs",
-              "RelativeDocumentMoniker": "BibliotecaAPI\\Migrations\\20250607002028_Inicial.cs",
-              "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Migrations\\20250607002028_Inicial.cs",
-              "RelativeToolTip": "BibliotecaAPI\\Migrations\\20250607002028_Inicial.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAkwEsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T00:20:28.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Prestamo.cs",
               "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Models\\Entities\\Prestamo.cs",
               "RelativeDocumentMoniker": "BibliotecaAPI\\Models\\Entities\\Prestamo.cs",
               "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Models\\Entities\\Prestamo.cs",
               "RelativeToolTip": "BibliotecaAPI\\Models\\Entities\\Prestamo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T12:28:31.387Z",
               "EditorCaption": ""
@@ -164,19 +106,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Models\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Models\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Models\\Entities\\Usuario.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Models\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:35:53.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrestamoesController.cs",
+              "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\PrestamoesController.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\PrestamoesController.cs",
+              "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\PrestamoesController.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Controllers\\PrestamoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:44:36.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibroesController.cs",
+              "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LibroesController.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\LibroesController.cs",
+              "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LibroesController.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Controllers\\LibroesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:43:45.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:45:22.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250607002028_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Migrations\\20250607002028_Inicial.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Migrations\\20250607002028_Inicial.cs",
+              "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Migrations\\20250607002028_Inicial.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Migrations\\20250607002028_Inicial.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwEsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:20:28.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "BibliotecaContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Migrations\\BibliotecaContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "BibliotecaAPI\\Migrations\\BibliotecaContextModelSnapshot.cs",
               "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Migrations\\BibliotecaContextModelSnapshot.cs",
               "RelativeToolTip": "BibliotecaAPI\\Migrations\\BibliotecaContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T01:13:15.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Program.cs",
               "RelativeDocumentMoniker": "BibliotecaAPI\\Program.cs",
@@ -188,19 +195,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "BibliotecaContext.cs",
               "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Data\\BibliotecaContext.cs",
               "RelativeDocumentMoniker": "BibliotecaAPI\\Data\\BibliotecaContext.cs",
               "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\Data\\BibliotecaContext.cs",
               "RelativeToolTip": "BibliotecaAPI\\Data\\BibliotecaContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T12:24:34.381Z"
+              "WhenOpened": "2025-06-06T12:24:34.381Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\appsettings.json",
+              "RelativeToolTip": "BibliotecaAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T12:26:06.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "BibliotecaAPI.csproj",
               "DocumentMoniker": "C:\\Users\\feli_\\Downloads\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj",
               "RelativeDocumentMoniker": "BibliotecaAPI\\BibliotecaAPI.csproj",

@@ -8,6 +8,11 @@ using Microsoft.EntityFrameworkCore;
 using BibliotecaAPI.Data;
 using BibliotecaAPI.Models.Entities;
 
+// Controlador API para la gestión de préstamos de libros.
+// Permite registrar nuevos préstamos y devolver libros (actualizando la fecha de devolución).
+// Incluye validaciones para evitar duplicidad de devoluciones o referencias a libros/usuarios inexistentes.
+// El método 'CreatedAtAction' depende de la existencia de un método GET que retorne un préstamo por ID.
+
 namespace BibliotecaAPI.Controllers
 {
     [Route("api/[controller]")]
@@ -20,13 +25,13 @@ namespace BibliotecaAPI.Controllers
         {
             _context = context;
         }
-        /*
+        
         // GET: api/Prestamoes
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Prestamo>>> GetPrestamos()
         {
             return await _context.Prestamos.ToListAsync();
-        }*/
+        }
 
         // GET: api/Prestamoes/5
         [HttpGet("{id}")]
@@ -41,7 +46,7 @@ namespace BibliotecaAPI.Controllers
 
             return prestamo;
         }
-        /*
+        
         // PUT: api/Prestamoes/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
@@ -52,27 +57,9 @@ namespace BibliotecaAPI.Controllers
                 return BadRequest();
             }
 
-            _context.Entry(prestamo).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!PrestamoExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
             return NoContent();
         }
-        */
+        
         // POST: api/Prestamoes
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
@@ -83,7 +70,7 @@ namespace BibliotecaAPI.Controllers
 
             return CreatedAtAction("GetPrestamo", new { id = prestamo.Id }, prestamo);
         }
-
+        //POST:/api/Devoluciones
         [HttpPost("devoluciones")]
         public async Task<IActionResult> PostDevolucion([FromBody] int prestamoId)
         {
@@ -105,7 +92,7 @@ namespace BibliotecaAPI.Controllers
 
             return NoContent(); // o return Ok(prestamo); si deseas retornar el objeto
         }
-        /*
+        
         // DELETE: api/Prestamoes/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeletePrestamo(int id)
@@ -125,6 +112,6 @@ namespace BibliotecaAPI.Controllers
         private bool PrestamoExists(int id)
         {
             return _context.Prestamos.Any(e => e.Id == id);
-        }*/
+        }
     }
 }
